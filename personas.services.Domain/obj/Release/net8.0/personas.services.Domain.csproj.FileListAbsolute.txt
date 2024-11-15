@@ -1,0 +1,11 @@
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\bin\Release\net8.0\personas.services.Domain.deps.json
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\bin\Release\net8.0\personas.services.Domain.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\bin\Release\net8.0\personas.services.Domain.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\personas.services.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\personas.services.Domain.AssemblyInfoInputs.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\personas.services.Domain.AssemblyInfo.cs
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\personas.services.Domain.csproj.CoreCompileInputs.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\personas.services.Domain.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\refint\personas.services.Domain.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\personas.services.Domain.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Domain\obj\Release\net8.0\ref\personas.services.Domain.dll

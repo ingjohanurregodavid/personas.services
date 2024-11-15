@@ -1,0 +1,17 @@
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\bin\Release\net8.0\personas.services.Infrastructure.deps.json
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\bin\Release\net8.0\personas.services.Infrastructure.runtimeconfig.json
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\bin\Release\net8.0\personas.services.Infrastructure.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\bin\Release\net8.0\personas.services.Infrastructure.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\bin\Release\net8.0\personas.services.Domain.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\bin\Release\net8.0\personas.services.Domain.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.csproj.AssemblyReference.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.AssemblyInfoInputs.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.AssemblyInfo.cs
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.9902AEC3.Up2Date
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\refint\personas.services.Infrastructure.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\personas.services.Infrastructure.genruntimeconfig.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Infrastructure\obj\Release\net8.0\ref\personas.services.Infrastructure.dll

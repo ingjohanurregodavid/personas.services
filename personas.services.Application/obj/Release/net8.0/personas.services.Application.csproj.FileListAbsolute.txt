@@ -1,0 +1,17 @@
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\bin\Release\net8.0\personas.services.Application.deps.json
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\bin\Release\net8.0\personas.services.Application.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\bin\Release\net8.0\personas.services.Application.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\bin\Release\net8.0\personas.services.Domain.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\bin\Release\net8.0\personas.services.Infrastructure.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\bin\Release\net8.0\personas.services.Domain.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\bin\Release\net8.0\personas.services.Infrastructure.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.services.Application.csproj.AssemblyReference.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.services.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.services.Application.AssemblyInfoInputs.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.services.Application.AssemblyInfo.cs
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.services.Application.csproj.CoreCompileInputs.cache
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.3A474ABE.Up2Date
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.services.Application.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\refint\personas.services.Application.dll
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\personas.services.Application.pdb
+D:\DesarrolloPruebas\repos\GitHub\personas.services\personas.services.Application\obj\Release\net8.0\ref\personas.services.Application.dll
